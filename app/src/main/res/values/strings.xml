@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PKChat</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="send_button_label">Send</string>
+    <string name="create_group">Create Group</string>
+    <string name="join_group">Join Group</string>
+    <string name="select_option">Thanks for signing in to PKChat. Please enter the Group Code to proceed. &#xD;If there is no group with that code, it will be created.</string>
+    <string name="group_code">Enter Group Code</string>
+    <string name="start_chat">Start Chatting</string>
+    <string name="change_group">Change Group</string>
+    <string name="case_sensitive">Note: The group code is case-sensitive.</string>
+    <string name="pkchat">PKChat</string>
+    <string name="signout">Signing Out...</string>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "395001285518",
+    "firebase_url": "https://pkchat-master-3568d.firebaseio.com",
+    "project_id": "pkchat-master-3568d",
+    "storage_bucket": "pkchat-master-3568d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395001285518:android:1b26d1409608e0d90ff2df",
+        "android_client_info": {
+          "package_name": "com.pshkrh.pkchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395001285518-r0q1iql5nh1uugndq22pohl3mrd5n8u0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pshkrh.pkchat",
+            "certificate_hash": "28c55df26461dfa2afa72546399748df2b5a5119"
+          }
+        },
+        {
+          "client_id": "395001285518-1tkicd4eb6vd146b6etdnq1o65fr7csr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-L6yLw0R-5mAanHZGbYptM8lPS0smBl4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395001285518-1tkicd4eb6vd146b6etdnq1o65fr7csr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
